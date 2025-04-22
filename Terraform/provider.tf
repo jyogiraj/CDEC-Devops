@@ -6,7 +6,7 @@ provider "aws" {
 
 
 # steps to define provider block with cli profile
-# install aws cli
+# install aws cli  
 # aws configure  --profile tf-user
 # enter access_key: 
 # enter secret_key:
